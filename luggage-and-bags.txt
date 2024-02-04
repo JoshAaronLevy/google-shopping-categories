@@ -1,0 +1,22 @@
+5181 - Luggage & Bags
+100 - Luggage & Bags > Backpacks
+101 - Luggage & Bags > Briefcases
+108 - Luggage & Bags > Cosmetic & Toiletry Bags
+549 - Luggage & Bags > Diaper Bags
+502974 - Luggage & Bags > Dry Boxes
+103 - Luggage & Bags > Duffel Bags
+104 - Luggage & Bags > Fanny Packs
+105 - Luggage & Bags > Garment Bags
+110 - Luggage & Bags > Luggage Accessories
+503014 - Luggage & Bags > Luggage Accessories > Dry Box Liners & Inserts
+7521 - Luggage & Bags > Luggage Accessories > Luggage Covers
+499691 - Luggage & Bags > Luggage Accessories > Luggage Racks & Stands
+5652 - Luggage & Bags > Luggage Accessories > Luggage Straps
+5651 - Luggage & Bags > Luggage Accessories > Luggage Tags
+5620 - Luggage & Bags > Luggage Accessories > Packing Organizers
+6919 - Luggage & Bags > Luggage Accessories > Travel Bottles & Containers
+5650 - Luggage & Bags > Luggage Accessories > Travel Pouches
+106 - Luggage & Bags > Messenger Bags
+5608 - Luggage & Bags > Shopping Totes
+107 - Luggage & Bags > Suitcases
+6553 - Luggage & Bags > Train Cases
